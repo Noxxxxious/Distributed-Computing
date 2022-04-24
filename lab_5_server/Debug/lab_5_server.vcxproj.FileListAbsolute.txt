@@ -1,0 +1,2 @@
+C:\Users\micha\Desktop\sem4\PR\lab_5_server\Debug\lab_5_server.exe
+C:\Users\micha\Desktop\sem4\PR\lab_5_server\Debug\lab_5_server.pdb
